@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [17/Jul/2018:00:10:48 +0530] "GET /Registration/registration.jsp HTTP/1.1" 200 2492
+0:0:0:0:0:0:0:1 - - [17/Jul/2018:00:11:38 +0530] "GET /Registration/registration.jsp HTTP/1.1" 200 2527
+127.0.0.1 - - [17/Jul/2018:00:20:42 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Jul/2018:00:20:47 +0530] "GET /Registration/Login.jsp HTTP/1.1" 200 1843
+0:0:0:0:0:0:0:1 - - [17/Jul/2018:00:26:47 +0530] "GET /Registration/Login.jsp HTTP/1.1" 200 2047
+0:0:0:0:0:0:0:1 - - [17/Jul/2018:00:27:48 +0530] "GET /Registration/Login.jsp HTTP/1.1" 200 2045
+127.0.0.1 - - [17/Jul/2018:00:46:18 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [17/Jul/2018:00:46:24 +0530] "GET /Registration/registration.jsp HTTP/1.1" 200 2469
